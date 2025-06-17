@@ -10,11 +10,11 @@ We’re a group of passionate developers who love to experiment, learn, and ship
 
 # 🛠️ What We Do
 
-# 🎮 Game Development — Creating sandbox-style, multiplayer, and pixel-based games.
+ 🎮 Game Development — Creating sandbox-style, multiplayer, and pixel-based games.
 
-# 📦 npm Packages — Tools and libraries to enhance developer workflows.
+ 📦 npm Packages — Tools and libraries to enhance developer workflows.
 
-# 🤖 AI & Bots — Smart bots that learn, assist, and interact intelligently.
+🤖 AI & Bots — Smart bots that learn, assist, and interact intelligently.
 
 ## 📂 Our Projects
 
